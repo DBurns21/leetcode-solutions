@@ -1,2 +1,2 @@
 # leetcode-solutions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This is where I am going to be storing all of my solutions that I have from completing leetcode problems.
