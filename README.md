@@ -32,4 +32,16 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Math
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
