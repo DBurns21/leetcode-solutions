@@ -9,12 +9,13 @@ class Solution {
         if (b <= 0) {
             return 0.0;
         }
-
+        //if the hashmap already contains the a and b combo we don't have to keep searching and can just use the results from the hashmap that is already saved.
         if (dp.containsKey(a) && dp.get(a).containsKey(b)) {
             return dp.get(a).get(b);
         }
 
         double result = 0.25 * (getSoupOdds(a-4, b, dp) + getSoupOdds(a-3, b-1, dp) + getSoupOdds(a-2, b-2, dp) + getSoupOdds(a-1, b-3, dp));
+        //create a new hashmap and add the new result with a and b into it to decrease further time for searching
         dp.computeIfAbsent(a, i -> new HashMap<>()).put(b, result);
         return result;
     }
@@ -25,6 +26,7 @@ class Solution {
             return 1;
         }
 
+        //by making the problem smaller there are less states that the computer has to go through making this faster.
         n = (int)Math.ceil(n / 25.0);
         Map<Integer, Map<Integer, Double>> dp = new HashMap<>();
 
