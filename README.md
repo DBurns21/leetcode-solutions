@@ -35,6 +35,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -44,4 +45,12 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
