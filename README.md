@@ -11,6 +11,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -37,6 +38,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,4 +55,16 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
