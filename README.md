@@ -44,6 +44,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Probability and Statistics
 |  |
 | ------- |
