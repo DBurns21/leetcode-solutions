@@ -38,6 +38,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DBurns21/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DBurns21/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
