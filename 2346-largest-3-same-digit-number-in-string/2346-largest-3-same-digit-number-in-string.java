@@ -1,3 +1,6 @@
+//Since there are only 10 possible digits I could make a array that holds the string of each digit repeated 3 time and then starting with "999"
+//I could work down and check if num contains the substring and if so return it.
+
 class Solution {
     public String largestGoodInteger(String num) {
         //origanally I checked if the string was less than 3 but in the constraints the shortest length of n is 3 so I removed it
