@@ -76,4 +76,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
