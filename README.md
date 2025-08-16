@@ -42,6 +42,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0342-power-of-four](https://github.com/DBurns21/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +84,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
