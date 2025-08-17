@@ -17,6 +17,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -41,17 +42,20 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0326-power-of-three](https://github.com/DBurns21/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DBurns21/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 ## Bit Manipulation
 |  |
 | ------- |
