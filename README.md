@@ -40,6 +40,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DBurns21/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DBurns21/leetcode-solutions/tree/master/0342-power-of-four) |
