@@ -8,6 +8,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -47,6 +48,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
