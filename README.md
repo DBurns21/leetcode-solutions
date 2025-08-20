@@ -6,6 +6,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Array
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -53,6 +54,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Dynamic Programming
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -101,4 +103,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
