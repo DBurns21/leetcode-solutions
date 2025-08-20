@@ -1,24 +1,4 @@
 class Solution {
-    private int maxSquare(int i, int j, char[][] matrix, int[] ans) {
-
-        if (i == matrix.length || j == matrix[0].length || i < 0 || j < 0) {
-            return 0;
-        }
-
-        int right = maxSquare(i, j+1, matrix, ans);
-        int down = maxSquare(i+1, j, matrix, ans);
-        int diagonal = maxSquare(i+1, j+1, matrix, ans);
-
-        if (matrix[i][j] == '0') {
-            return 0;
-        }
-
-        int value =  1 + Math.min(right, Math.min(down, diagonal));
-        ans[0] = Math.max(ans[0], value);
-
-        return value;
-    }
-
     public int maximalSquare(char[][] matrix) {
         int ans = 0;
         int m = matrix.length;
