@@ -9,13 +9,10 @@ class Solution {
         for (int i = 0; i < grid.length; ++i) {
             for (int j = 0; j < grid[0].length; ++j) {
                 if (grid[i][j] == 1){
-                    System.out.println("(" + i + ", " + j + ")");
+                    //since i only increases unlike j the current i will always be greater than or equal to maxI
+                    maxI = i;
                     if (i < minI) {
                         minI = i;
-                    }
-                    
-                    if (i > maxI) {
-                        maxI = i;
                     }
 
                     if (j < minJ) {
@@ -28,7 +25,6 @@ class Solution {
                 }
             }
         }
-        System.out.println("minI: " + minI + "\nmaxI: " + maxI + "\nminJ: " + minJ + "\nmaxJ: " + maxJ);
         return (maxJ - minJ + 1) * (maxI - minI + 1);
     }
 }
