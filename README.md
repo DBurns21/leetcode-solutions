@@ -7,6 +7,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -39,6 +40,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -117,6 +119,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
