@@ -14,7 +14,7 @@ class Solution {
             location++;
 
             if (up) {
-                if( i == 0) {
+                /*if( i == 0) {
                     up = false;
                     if (j == n-1) {
                         i++;
@@ -27,13 +27,22 @@ class Solution {
                     up = false;
                     i++;
                 }
+                */
+                if (j == n-1) {
+                    up = false;
+                    i++;
+                }
+                else if( i == 0) {
+                    up = false;
+                    j++;
+                }
                 else {
                     i--;
                     j++;
                 }
             }
             else {
-                if (j == 0) {
+                /*if (j == 0) {
                     up = true;
                     if (i == m-1) {
                         j++;
@@ -45,6 +54,14 @@ class Solution {
                 else if (i == m-1) {
                     up = true;
                     j++;
+                }*/
+                if (i == m-1) {
+                    up = true;
+                    j++;
+                }
+                else if (j == 0) {
+                    up = true;
+                    i++;
                 }
                 else {
                     i++;
