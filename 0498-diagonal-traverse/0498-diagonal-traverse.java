@@ -1,3 +1,4 @@
+//orignally had a runtime of 155 ms which I thought was crazy but then I removed my print two print statements that printed every current location and it dropped down to 4ms
 class Solution {
     public int[] findDiagonalOrder(int[][] mat) {
         int m = mat.length;
