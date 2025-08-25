@@ -30,7 +30,6 @@ class Solution {
                     i--;
                     j++;
                 }
-                System.out.println("i: " + i + "  j: " + j);
             }
             else {
                 if (j == 0) {
@@ -50,7 +49,6 @@ class Solution {
                     i++;
                     j--;
                 }
-                System.out.println("i: " + i + "  j: " + j);
             }
         }
         return diagonal;
