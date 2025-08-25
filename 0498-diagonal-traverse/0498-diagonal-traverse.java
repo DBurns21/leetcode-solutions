@@ -13,21 +13,9 @@ class Solution {
             diagonal[location] = mat[i][j];
             location++;
 
+            //realized I could simplify my code since I had addition code due to having my if and if else statements backwards 
+            //meaning if i == 0 I would also have to check if j == n-1 rather than first checking if j == n-1 and then if not checking if i == 0
             if (up) {
-                /*if( i == 0) {
-                    up = false;
-                    if (j == n-1) {
-                        i++;
-                    }
-                    else {
-                        j++;
-                    }
-                }
-                else if (j == n-1) {
-                    up = false;
-                    i++;
-                }
-                */
                 if (j == n-1) {
                     up = false;
                     i++;
@@ -42,19 +30,6 @@ class Solution {
                 }
             }
             else {
-                /*if (j == 0) {
-                    up = true;
-                    if (i == m-1) {
-                        j++;
-                    }
-                    else {
-                        i++;
-                    }
-                }
-                else if (i == m-1) {
-                    up = true;
-                    j++;
-                }*/
                 if (i == m-1) {
                     up = true;
                     j++;
