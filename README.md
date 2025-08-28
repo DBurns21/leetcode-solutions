@@ -19,6 +19,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DBurns21/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DBurns21/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DBurns21/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DBurns21/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/DBurns21/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Stack
 |  |
 | ------- |
