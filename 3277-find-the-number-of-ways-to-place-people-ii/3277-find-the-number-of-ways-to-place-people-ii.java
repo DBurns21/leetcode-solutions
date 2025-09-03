@@ -43,8 +43,8 @@ class Solution {
                     
                     //was kinda lazy on this problem since rather than change it as a whole to be more efficient I only change more bits to slightly optimize it.
                     //rather than go from 0 to the length of the array I realized I could end at j since the points are sorted and the next ones will always be outside of the rectangle
-                    //I then realized that for the same reason I could start at i because anything less than it would also always be outside of the rectangle
-                    for (int k = i; k < j; ++k) {
+                    //I then realized that for the same reason I could start at i + 1 because anything less than it would also always be outside of the rectangle
+                    for (int k = i+1; k < j; ++k) {
                         if (k == i || k == j) {
                             continue;
                         }
