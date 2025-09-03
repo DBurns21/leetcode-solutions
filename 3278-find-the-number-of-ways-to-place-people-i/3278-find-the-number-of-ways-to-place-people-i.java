@@ -46,7 +46,7 @@ class Solution {
                     maxY = Math.max(a[1], b[1]);
                     minY = Math.min(a[1], b[1]);
                     
-                    for (int k = 0; k < sorted.size(); ++k) {
+                    for (int k = i+1; k < j; ++k) {
                         if (k == i || k == j) {
                             continue;
                         }
