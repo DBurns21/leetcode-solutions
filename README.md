@@ -89,6 +89,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/DBurns21/leetcode-solutions/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -157,4 +159,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
