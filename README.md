@@ -6,6 +6,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DBurns21/leetcode-solutions/tree/master/0001-two-sum) |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
@@ -28,6 +29,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DBurns21/leetcode-solutions/tree/master/0001-two-sum) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
