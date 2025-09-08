@@ -8,8 +8,9 @@ class Solution {
         }
 
         for (int i = 0; i < nums.length; ++i) {
-            if (remainders.containsKey(target-nums[i]) && i != remainders.get(target-nums[i])) {
-                ans[0] = remainders.get(target-nums[i]);
+            int leftover = target - nums[i];
+            if (remainders.containsKey(leftover) && i != remainders.get(leftover)) {
+                ans[0] = remainders.get(leftover);
                 ans[1] = i;
             }
         }
