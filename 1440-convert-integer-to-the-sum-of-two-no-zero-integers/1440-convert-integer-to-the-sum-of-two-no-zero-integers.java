@@ -1,6 +1,6 @@
 class Solution {
     private boolean nonZero(int num) {
-        while (num > 9) {
+        while (num > 0) {
             if (num % 10 == 0) {
                 return false;
             }
