@@ -10,12 +10,11 @@ class Solution {
         for (int i = 0; i < nums.length; ++i) {
             int leftover = target - nums[i];
             if (remainders.containsKey(leftover) && i != remainders.get(leftover)) {
-                ans[0] = remainders.get(leftover);
-                ans[1] = i;
+                return new int[] {remainders.get(leftover), i};
             }
         }
 
         
-        return ans;
+        return new int[] {};
     }
 }
