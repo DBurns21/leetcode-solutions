@@ -67,6 +67,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DBurns21/leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
