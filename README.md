@@ -60,6 +60,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DBurns21/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -103,6 +104,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DBurns21/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DBurns21/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -174,4 +176,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
