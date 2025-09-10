@@ -15,6 +15,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DBurns21/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DBurns21/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -32,6 +33,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0001-two-sum](https://github.com/DBurns21/leetcode-solutions/tree/master/0001-two-sum) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sliding Window
 |  |
 | ------- |
@@ -135,6 +137,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Backtracking
 |  |
 | ------- |
