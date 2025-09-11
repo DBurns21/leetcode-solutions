@@ -1,12 +1,17 @@
+//The problem today is a simple one but it has a slight twist that makes it difficult
+//The switch is it needs to be fairly efficient in order to pass the testcases
 class Solution {
     public String sortVowels(String s) { 
-        //AEIOUaeiou
+        //AEIOUaeiou (order of vowels)
         int[] freq = new int[10];
         
         for (int i = 0; i < s.length(); ++i) {
             char c = s.charAt(i);
             char lowercase = Character.toLowerCase(c);
 
+            //orignally I had insertion sort which is fine for smaller cases but with a complexity of n^2 large cases take too long
+            //since there are only 10 possible vowels I went with bucket sort and collected the frequency of each vowel in order to be more efficient
+            //while better this is still one of the slower algorithms that is able to pass all of the test cases
             if (lowercase == 'a' || lowercase == 'e' || lowercase == 'i' || lowercase == 'o' || lowercase == 'u') {
                
                 if (c == 'A') {
