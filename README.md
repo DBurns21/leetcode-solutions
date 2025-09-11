@@ -112,6 +112,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/DBurns21/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -135,6 +136,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
