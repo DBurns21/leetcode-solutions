@@ -1,42 +1,17 @@
 class Solution {
     public boolean doesAliceWin(String s) {
-        ArrayList<Integer> locations = new ArrayList<>();
-        
+
+        //Even though yesterdays medium was a bit difficult due to the constraints todays medium is quite easy
+        //Due to the way the game is played Bob can't win unless there are no vowels and that's because Alice can't make any moves
+        //So all we have to do is just check if the String s contains a vowel
         for (int i = 0; i < s.length(); ++i) {
             char c = s.charAt(i);
             if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
                 return true;
-                //locations.add(i);
             }
         }
 
-        int size = locations.size();
-        String remaining = s;
-        while (true) {
-            if (size == 0) {
-                return false;
-            }
-            else if (size % 2 == 0) {
-                locations.subList(0, size-2).clear();
-            }
-            else {
-                locations.subList(0, size-1).clear();
-            }
-
-            size = locations.size();
-
-            if (size <= 1) {
-                return true;
-            }
-            else if (size % 2 == 0) {
-                locations.subList(0, size-1).clear();
-            }
-            else {
-                locations.subList(0, size-2).clear();
-            }
-
-            size = locations.size();
-        }
+        return false;
         
     }
 }
