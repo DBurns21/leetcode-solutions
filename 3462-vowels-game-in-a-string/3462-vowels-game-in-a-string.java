@@ -5,22 +5,21 @@ class Solution {
         for (int i = 0; i < s.length(); ++i) {
             char c = s.charAt(i);
             if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
-                locations.add(i);
+                return true;
+                //locations.add(i);
             }
         }
 
         int size = locations.size();
         String remaining = s;
-        while (remaining.length() > 0) {
+        while (true) {
             if (size == 0) {
                 return false;
             }
             else if (size % 2 == 0) {
-                //remaining = s.substring(s.length() - remaining.length(), locations.get(size-2));
                 locations.subList(0, size-2).clear();
             }
             else {
-                //remaining = s.substring(s.length() - remaining.length(), locations.get(size));
                 locations.subList(0, size-1).clear();
             }
 
@@ -38,6 +37,6 @@ class Solution {
 
             size = locations.size();
         }
-        return false;
+        
     }
 }
