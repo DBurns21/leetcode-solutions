@@ -77,6 +77,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/DBurns21/leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -140,6 +141,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0003-longest-substring-without-repeating-characters](https://github.com/DBurns21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -181,8 +183,13 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
