@@ -6,12 +6,12 @@ class Solution {
         //So all we have to do is just check if the String s contains a vowel
         for (int i = 0; i < s.length(); ++i) {
             char c = s.charAt(i);
-            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+            //Decided to use a switch case instead since I normally don't and in some cases they are better than if and else if 
+            switch(c) {
+                case 'a', 'e', 'i', 'o', 'u':
                 return true;
             }
         }
-
         return false;
-        
     }
 }
