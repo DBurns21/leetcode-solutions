@@ -38,6 +38,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DBurns21/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/DBurns21/leetcode-solutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DBurns21/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -63,6 +64,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/DBurns21/leetcode-solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -205,8 +207,10 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/DBurns21/leetcode-solutions/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/DBurns21/leetcode-solutions/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
