@@ -7,31 +7,30 @@ class Spreadsheet {
     }
     
     public void setCell(String cell, int value) {
-        System.out.print("setting cell at ");
         int col = cell.charAt(0) - 'A';
         int row = Integer.parseInt(cell.substring(1)) - 1;
-        System.out.println("col: " + col + " row: " + row + " to " + value);
 
         spreadsheet[col][row] = value;
     }
     
     public void resetCell(String cell) {
-        System.out.print("reseting cell ");
         int col = cell.charAt(0) - 'A';
         int row = Integer.parseInt(cell.substring(1)) - 1;
-        System.out.println("for col: " + col + " row: " + row);
 
         spreadsheet[col][row] = 0;
     }
     
     public int getValue(String formula) {
-        System.out.println("getting value for " + formula);
-        String[] words = formula.split("((?<==)|(?==)|(?<=\\+)|(?=\\+)|(?<=-)|(?=-)|(?<=/)|(?=/)|(?<=\\*)|(?=\\*))");
+        //This works for if you have to check for different operations but in this case there will only be +
+        //String[] words = formula.split("((?<==)|(?==)|(?<=\\+)|(?=\\+)|(?<=-)|(?=-)|(?<=/)|(?=/)|(?<=\\*)|(?=\\*))");
+        String[] words = formula.split("\\+|=");
         int one = 0;
         int two = 0;
 
         String currWord = words[1];
         if (Character.isLetter(currWord.charAt(0))) {
+            //Since the letters will always be capital we can subtract 'A' from it so that it starts from 0
+            //if lowercase was added then we just make currWord.charAt(0) set to uppoercase (or lowercase isntead and subtract 'a' instead)
             int col = currWord.charAt(0) - 'A';
             int row = Integer.parseInt(currWord.substring(1)) - 1;
 
@@ -41,7 +40,7 @@ class Spreadsheet {
             one = Integer.parseInt(currWord);
         }
 
-        currWord = words[3];
+        currWord = words[2];
         if (Character.isLetter(currWord.charAt(0))) {
             int col = currWord.charAt(0) - 'A';
             int row = Integer.parseInt(currWord.substring(1)) - 1;
@@ -52,6 +51,9 @@ class Spreadsheet {
             two = Integer.parseInt(currWord);
         }
 
+        //Orignally I thought I had to check if the formula had a + - * or / but apparently it is always just +
+        return one + two;
+        /*
         switch (words[2].charAt(0)) {
             case '+':
                 return one + two;
@@ -62,6 +64,7 @@ class Spreadsheet {
             default:
                 return one * two;
         }
+        */
     }
 }
 
