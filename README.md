@@ -152,6 +152,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DBurns21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DBurns21/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
@@ -221,4 +222,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DBurns21/leetcode-solutions/tree/master/3678-design-task-manager) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
