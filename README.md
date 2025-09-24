@@ -35,6 +35,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0001-two-sum](https://github.com/DBurns21/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DBurns21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DBurns21/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DBurns21/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -75,6 +76,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0002-add-two-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DBurns21/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/DBurns21/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DBurns21/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DBurns21/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -153,6 +155,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DBurns21/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/DBurns21/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DBurns21/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
