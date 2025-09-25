@@ -7,6 +7,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DBurns21/leetcode-solutions/tree/master/0001-two-sum) |
+| [0120-triangle](https://github.com/DBurns21/leetcode-solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
@@ -96,6 +97,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/DBurns21/leetcode-solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
