@@ -28,7 +28,7 @@ class Solution {
         }
         
     }
-
+    /*
     static int bs(int arr[], int x) {
         int low = 0;
         int high = arr.length - 1;
@@ -37,11 +37,11 @@ class Solution {
             //System.out.print(num + ", ");
         }
         //System.out.println();
-        /*
+        
         if (high == 0) {
             return 0;
         }
-        */
+        
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
@@ -59,6 +59,7 @@ class Solution {
 
         return -1;
     }
+    */
 
     public int triangleNumber(int[] nums) {
         int size = nums.length;
@@ -76,32 +77,6 @@ class Solution {
             for (int j = i+1; j < size-1; ++j) {
                 int b = nums[j];
                 for (int k = j+1; k < size; ++k) {
-                    int c = nums[k];
-                    if (a+b > c && a+c > b && b+c > a) {
-                        ans++;
-                    }
-                }
-            }
-        }
-        
-
-
-
-
-        int ans = 0;
-        for (int i = 0; i < size-2; ++i) {
-            int a = nums[i];
-            for (int j = i+1; j < size-1; ++j) {
-                int b = nums[j];
-
-                int start = bs(Arrays.copyOfRange(nums, j+1, size), a+b+1);
-                if (start == -1) {
-                    //System.out.println("start is -1 a: " + a +" b: " + b);
-                    break;
-                }
-                start += j+1;
-                //System.out.println("statr now is " + start);
-                for (int k = start; k > j; --k) {
                     int c = nums[k];
                     if (a+b > c && a+c > b && b+c > a) {
                         ans++;
