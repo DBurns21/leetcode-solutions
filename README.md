@@ -10,6 +10,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0120-triangle](https://github.com/DBurns21/leetcode-solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -56,6 +57,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -129,6 +131,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2887-sort-vowels-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -168,6 +171,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Backtracking
@@ -231,4 +235,5 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
