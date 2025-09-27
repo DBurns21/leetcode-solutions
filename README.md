@@ -12,6 +12,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/DBurns21/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -85,6 +86,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0342-power-of-four](https://github.com/DBurns21/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/DBurns21/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -205,6 +207,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/DBurns21/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
