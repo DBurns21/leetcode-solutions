@@ -14,6 +14,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/DBurns21/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/DBurns21/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DBurns21/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -105,6 +106,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0826-soup-servings](https://github.com/DBurns21/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0867-new-21-game) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/DBurns21/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DBurns21/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
