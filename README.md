@@ -20,6 +20,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DBurns21/leetcode-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -69,6 +70,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -93,6 +95,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DBurns21/leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -241,4 +244,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
