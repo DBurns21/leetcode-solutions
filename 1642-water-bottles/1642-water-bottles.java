@@ -1,6 +1,5 @@
 class Solution {
     private int bottleExchange(int numBottles, int numExchange, int leftover) {
-        System.out.println("Current bottles: " + numBottles + "\nCurrent leftover: " + leftover);
         if (numBottles + leftover < numExchange) {
             return numBottles;
         }
