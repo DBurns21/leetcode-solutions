@@ -6,7 +6,6 @@ class Solution {
         }
 
         int exchanges = (numBottles + leftover) / numExchange;
-        System.out.println("Exchanges: " + exchanges +"\n");
 
         return numBottles + bottleExchange(exchanges, numExchange, numBottles-(exchanges*numExchange) + leftover);
     }
