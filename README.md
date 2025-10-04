@@ -7,6 +7,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DBurns21/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/DBurns21/leetcode-solutions/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -182,6 +183,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/DBurns21/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -246,6 +248,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Combinatorics
