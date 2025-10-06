@@ -13,6 +13,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/DBurns21/leetcode-solutions/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/DBurns21/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/DBurns21/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/DBurns21/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -62,6 +63,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -196,6 +198,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0221-maximal-square](https://github.com/DBurns21/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -243,6 +246,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/DBurns21/leetcode-solutions/tree/master/3678-design-task-manager) |
 ## Two Pointers
@@ -255,4 +259,16 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
