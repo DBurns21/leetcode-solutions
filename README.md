@@ -24,6 +24,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [1628-count-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DBurns21/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DBurns21/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -67,6 +68,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/DBurns21/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DBurns21/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -150,6 +152,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/DBurns21/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DBurns21/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -260,6 +263,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0011-container-with-most-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/DBurns21/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/DBurns21/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Combinatorics
 |  |
 | ------- |
