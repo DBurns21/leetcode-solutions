@@ -32,6 +32,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DBurns21/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DBurns21/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/DBurns21/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -175,6 +176,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/DBurns21/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/DBurns21/leetcode-solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## String
 |  |
 | ------- |
