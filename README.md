@@ -23,6 +23,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [1612-avoid-flood-in-the-city](https://github.com/DBurns21/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/DBurns21/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/DBurns21/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DBurns21/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DBurns21/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
@@ -83,6 +84,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | ------- |
 | [0498-diagonal-traverse](https://github.com/DBurns21/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/DBurns21/leetcode-solutions/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DBurns21/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -187,6 +189,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [0165-compare-version-numbers](https://github.com/DBurns21/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/DBurns21/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/DBurns21/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/DBurns21/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
