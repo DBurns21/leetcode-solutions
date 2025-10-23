@@ -87,6 +87,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/DBurns21/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -119,6 +120,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [3336-water-bottles-ii](https://github.com/DBurns21/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/DBurns21/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/DBurns21/leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
@@ -194,6 +196,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 | [2429-design-a-food-rating-system](https://github.com/DBurns21/leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/DBurns21/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/DBurns21/leetcode-solutions/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/DBurns21/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -276,6 +279,7 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DBurns21/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,4 +292,8 @@ This is where I am going to be storing all of my solutions that I have from comp
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/DBurns21/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DBurns21/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
